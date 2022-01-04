@@ -10,6 +10,11 @@ const filesToDownload = [
   'killAll.ns',
   'runHacking.ns',
   'find.ns',
+  'gangManager.ns',
+  'getCrimesData.ns',
+  'gangFastAscender.ns',
+  'prepareGang.ns',
+  'karmaReducer.ns',
 ]
 const valuesToRemove = ['BB_SERVER_MAP']
 
